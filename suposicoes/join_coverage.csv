@@ -1,0 +1,5 @@
+table,key,opportunities_covered,opportunities_total,coverage,key_unique
+base-escolas,account_id,1329,1610,0.7395659432387313,False
+base-atuação-especialista,opportunity_id,1608,1610,0.9987577639751553,False
+base-campanhas-realizadas,account_id,504,1610,0.3130434782608696,False
+base-perdas,account_id,1606,1610,0.9975155279503105,False
