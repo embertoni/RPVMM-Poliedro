@@ -1,0 +1,20 @@
+check,value,interpretation,severity
+linhas_funil,5900,Eventos observados na base-funil-2026,informativo
+oportunidades,1610,OpportunityId distintos com pelo menos um evento,informativo
+duplicatas_event_id,0,Mesmo Id de evento repetido,ok
+duplicatas_oportunidade_data_etapa,0,Possíveis eventos repetidos na mesma oportunidade/data/etapa,ok
+datas_evento_nulas,0,Impossibilitam ordenar ou calcular duração,ok
+datas_fora_ordem_original,0,"Após ordenação, deve ser zero; a ordenação adotada é event_date/created_at/event_id",informativo
+estados_sem_sequencia_oficial,0,Eventos sem correspondência na planilha de sequência,ok
+oportunidades_ganhas,56,Último estado Contrato assinado,informativo
+oportunidades_perdidas,897,Último estado Oportunidade perdida,informativo
+oportunidades_abertas,657,Último estado não absorvente,informativo
+oportunidades_multimarcas,0,OpportunityId com mais de uma marca,informativo
+contas_multioportunidades,190,Contas associadas a várias oportunidades; esperado e não é duplicidade por si só,informativo
+contas_multimarcas,183,Contas negociadas em mais de uma marca,informativo
+transicoes_reversao,83,Retornos a etapas anteriores,informativo
+transicoes_salto,1065,Mudanças que pulam etapas,informativo
+mesma_etapa,0,Registros consecutivos na mesma etapa,informativo
+status_eventos,3,Valores distintos de Status Atual,informativo
+ultimo_estado_absorvente_com_status_negociacao,56,Inconsistência potencial entre estado final e status,atenção
+absorvente_com_eventos_posteriores,11,Oportunidades com evento após estado absorvente; investigar reabertura ou log redundante,atenção

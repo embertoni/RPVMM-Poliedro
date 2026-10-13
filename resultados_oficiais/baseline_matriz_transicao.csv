@@ -1,0 +1,14 @@
+from_state,Solicitação de material,Material entregue,Validação pedagógica,Proposta tabela,Proposta personalizada,Negociação e ajuste financeiro,Documentação enviada,Análise de operações comerciais,Análise do Financeiro,Análise do Jurídico,Enviado para a assinatura,Contrato assinado,Oportunidade perdida
+Solicitação de material,0.0,0.5879873551106428,0.002107481559536354,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.40990516332982085
+Material entregue,0.0,0.0,0.9078014184397163,0.0017730496453900709,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09042553191489362
+Validação pedagógica,0.0,0.0,0.0,0.46990291262135925,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5300970873786408
+Proposta tabela,0.0,0.0,0.00411522633744856,0.0,0.7037037037037037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.29218106995884774
+Proposta personalizada,0.0,0.0,0.0,0.0,0.0,0.49122807017543857,0.0,0.0,0.0,0.0,0.0,0.0,0.5087719298245614
+Negociação e ajuste financeiro,0.0,0.0,0.0,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.25
+Documentação enviada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Análise de operações comerciais,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9047619047619048,0.0,0.0,0.09523809523809523
+Análise do Financeiro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9833333333333333,0.0,0.016666666666666666
+Análise do Jurídico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9836065573770492,0.0,0.0,0.0,0.01639344262295082
+Enviado para a assinatura,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9491525423728814,0.05084745762711865
+Contrato assinado,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Oportunidade perdida,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

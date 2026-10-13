@@ -1,0 +1,15 @@
+stage_order,phase,stage,stage_sequence,note
+1,Análise de Material,Solicitação de material,1.Solicitação de material,
+2,Análise de Material,Material entregue,2.Material entregue,
+3,Análise de Material,Validação pedagógica,3.Validação pedagógica,
+4,Proposta,Proposta tabela,4.Proposta tabela,
+5,Proposta,Proposta personalizada,5.Proposta personalizada,
+6,Proposta,Negociação e ajuste financeiro,6.Negociação e ajuste financeiro,
+7,Aceite do cliente,Documentação enviada,7.Documentação enviada,
+8,Aceite do cliente,Análise de operações comerciais,8.Análise de operações comerciais,Etapas internas Poliedro
+9,Aceite do cliente,Análise do Financeiro,9.Análise do Financeiro,Etapas internas Poliedro
+10,Aceite do cliente,Análise do Jurídico,10.Análise do Jurídico,Etapas internas Poliedro
+11,Aceite do cliente,Enviado para a assinatura,11.Enviado para a assinatura,
+12,Aceite do cliente,Contrato assinado,12.Contrato assinado,
+13,Aceite do cliente,Oportunidade perdida,13.Oportunidade perdida,
+14,Aceite do cliente,Contrato Ativo,14.Contrato Ativo,

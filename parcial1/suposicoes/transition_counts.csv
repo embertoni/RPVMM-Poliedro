@@ -1,0 +1,31 @@
+prev_stage,stage,transition_type,count
+,Solicitação de material,initial,1604
+Solicitação de material,Material entregue,advance,1029
+Material entregue,Validação pedagógica,advance,956
+Validação pedagógica,Proposta tabela,advance,475
+Solicitação de material,Oportunidade perdida,forward_jump,393
+Proposta tabela,Proposta personalizada,advance,317
+Validação pedagógica,Oportunidade perdida,forward_jump,273
+Proposta personalizada,Negociação e ajuste financeiro,advance,156
+Proposta personalizada,Oportunidade perdida,forward_jump,87
+Negociação e ajuste financeiro,Documentação enviada,advance,82
+Documentação enviada,Análise de operações comerciais,advance,80
+Análise de operações comerciais,Análise do Jurídico,forward_jump,73
+Análise do Jurídico,Análise do Financeiro,reversal,72
+Análise do Financeiro,Enviado para a assinatura,forward_jump,71
+Proposta tabela,Oportunidade perdida,forward_jump,71
+Enviado para a assinatura,Contrato assinado,advance,57
+Material entregue,Oportunidade perdida,forward_jump,51
+Negociação e ajuste financeiro,Oportunidade perdida,forward_jump,21
+,Material entregue,initial,6
+Análise de operações comerciais,Oportunidade perdida,forward_jump,6
+Oportunidade perdida,Material entregue,backward_jump,5
+Oportunidade perdida,Análise do Jurídico,backward_jump,4
+Enviado para a assinatura,Oportunidade perdida,forward_jump,3
+Solicitação de material,Validação pedagógica,forward_jump,2
+Análise do Financeiro,Oportunidade perdida,forward_jump,1
+Análise do Jurídico,Oportunidade perdida,forward_jump,1
+Material entregue,Proposta tabela,forward_jump,1
+Contrato assinado,Contrato Ativo,forward_jump,1
+Oportunidade perdida,Proposta tabela,backward_jump,1
+Proposta tabela,Validação pedagógica,reversal,1

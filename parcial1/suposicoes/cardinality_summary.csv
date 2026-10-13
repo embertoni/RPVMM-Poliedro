@@ -1,0 +1,5 @@
+metric,value
+opportunities_per_account_max,3
+brands_per_opportunity_max,1
+accounts_per_opportunity_max,1
+events_per_opportunity_max,13
